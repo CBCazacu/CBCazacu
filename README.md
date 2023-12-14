@@ -7,7 +7,8 @@
   Phone Number: +44 7384 261478
   LinkedIn: https://www.linkedin.com/in/corneliu-bogdan-cazacu-4976021a0/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvPf2riS7QxqRcrenKDTfXQ%3D%3D 
 
-<!---
+
+
 Dear Sir/Madam,
 
 I hope this email message finds you well. My name is Bogdan Cazacu, and I currently work at the NHS Guy's Cancer Center. While I find my work in healthcare deeply rewarding, I am writing to express my strong desire to venture into the field of programming and contribute my skills in a dynamic work environment.
@@ -19,5 +20,3 @@ I would be grateful for the opportunity to discuss how my skills and enthusiasm 
 Thank you for considering my application. I look forward to the possibility of learning and contributing to your team.
 Sincerely,
 Bogdan Cazacu
-
---->
